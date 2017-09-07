@@ -35,7 +35,7 @@ set :repo_url, "git@example.com:me/my_repo.git"
 # Default value for keep_releases is 5
 # set :keep_releases, 5
 
-lock '3.4.0'
+lock '3.9.0'
 
 set :application, 'TareaApp'
 set :repo_url, 'git@github.com:estebanmino/TareaApp.git' # Edit this to match your repository
